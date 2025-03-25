@@ -1,7 +1,7 @@
 # Machine Learning on the Fly: A Hands-On Tutorial for Streaming Data
 
 (Tutorial at [IEEE ICDE 2025](https://ieee-icde.org/2025/))
-![Alt text](../ICDE2025/Stream.png)
+![Stream.png](Stream.png)
 This hands-on tutorial provides a comprehensive introduction to key topics in data stream learning, combining theoretical foundations with practical demonstrations and code examples. 
 Participants will explore essential concepts, including supervised learning for data streams, building efficient pipelines for online preprocessing and model training, detecting and visualizing concept drift, and applying anomaly detection algorithms to streaming data. 
 We will also delve into the challenges and opportunities of AutoML for data streams and tackle practical concerns related to partially and delayed labeled data streams.
